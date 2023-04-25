@@ -79392,7 +79392,7 @@ a9a(){var s=this,r=s.gaV(s),q=$.azp(),p=t.ZN
 r.aT(q,p).a.Q3()
 s.gaV(s).aT(q,p).a.jS(0,"new_post",new A.amW(s))},
 F(a){var s,r,q,p,o,n,m=this,l=null
-if(m.gaV(m).aT($.bR(),t.g).as==="")A.jw(new A.amY(),a,t.z)
+if(m.gaV(m).aT($.bR(),t.g).b==null)A.jw(new A.amY(),a,t.z)
 if(!m.as){m.a9a()
 m.as=!0}s=A.Ou(B.k,!0,l,A.aW("Home",l,l,l,l,A.bq(l,l,B.p,l,l,l,l,l,l,l,l,20,l,l,B.av,l,l,!0,l,l,l,l,l,l,l,l),l,l))
 r=A.a6(l,B.aQ,B.e,l,l,B.cd,l,l,l,l,l,l,l)
