@@ -79659,6 +79659,7 @@ g=d[6].a.a
 s=2
 return A.Z(f.ch.zI(new A.el(e,p,o,n,l,c,k,j,i,h,d[4].a.a,g,m)),$async$$0)
 case 2:A.i5(q.b,!1).m_(0,null)
+window.location.reload()
 return A.P(null,r)}})
 return A.Q($async$$0,r)},
 $S:19}
