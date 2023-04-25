@@ -78515,7 +78515,7 @@ var $async$xE=A.T(function(b,c){if(b===1)return A.P(c,r)
 while(true)switch(s){case 0:n=p.b
 n.b=!0
 s=3
-return A.Z(n.hQ("POST",A.bE(p.a),null,B.Q.oS(a,null),null),$async$xE)
+return A.Z(n.hQ("POST",A.bE(p.a+"/"),null,B.Q.oS(a,null),null),$async$xE)
 case 3:o=c
 if(o.b!==200){A.eR(B.aT,16,B.aV,"Couldn't Create Post! Try again.",B.k,1,B.aW,"#101110","center")
 throw A.c(A.bU("Failed to create post"))}else{A.eR(B.aT,16,B.aV,"Created Post!",B.k,1,B.aW,"#101110","center")
