@@ -79352,7 +79352,7 @@ n=m.a.c.d
 if(n>0){p=A.d1(l,l,l,l,l,l,l,l,l,l,l,l,l,new A.am(new A.V(10,15,10,15),p),l,l,l,l,l,l,l,l)
 p=A.axW(A.bo(B.oj,l),A.aU("View "+n+" replies",l,l,l,l,l,l,l),new A.aqP(m),p)}else p=A.bU(l,l,l)
 p=A.a6(l,A.bk(A.a([i,B.m9,A.bA(A.a([r,B.bO,q,B.ma,A.a6(l,A.bk(A.a([B.d5,o,B.d5,p],s),B.q,B.n,B.m),B.e,l,l,l,l,l,l,l,l,l,l)],s),B.L,B.n,B.m)],s),B.L,B.n,B.m),B.e,l,l,l,l,l,l,B.Q,l,l,l)
-if(m.d)i=A.a6(l,m.e?A.bU(A.my(l),l,l):A.a8M(new A.aqQ(m),J.bD(m.f)),B.e,l,l,l,l,l,l,l,l,l,500)
+if(m.d)i=A.a6(l,m.e?A.aR(A.bU(A.my(l),l,l),30,30):A.a8M(new A.aqQ(m),J.bD(m.f)),B.e,l,l,l,l,l,l,l,l,l,500)
 else i=A.bU(l,l,l)
 return A.bA(A.a([p,i],s),B.q,B.n,B.m)}}
 A.aqK.prototype={
