@@ -80096,7 +80096,7 @@ F(a){var s=null,r=A.rx(new A.bj(55,55)),q=A.bo(B.E5,s)
 return A.a6(s,A.hJ(B.aY,A.a([A.a6(s,A.d7(!0,B.H,!1,s,A.dk(),s,s,s,s,2,A.cw(s,new A.c0(4,r,B.o),s,s,s,s,s,s,!0,s,s,s,s,s,A.ao(76,222,223,223),!0,s,s,s,s,s,s,s,s,s,s,A.bm(s,s,B.J,s,s,s,s,s,s,s,s,14,s,s,s,s,s,!0,s,s,s,s,s,s,s,s),"Search the Ashesi Network",s,s,s,s,!1,s,s,s,s,s,q,s,s,s,s,s,s,s,s,s,s,s),!0,s,!0,s,!1,s,s,s,s,s,s,1,s,s,!1,"\u2022",s,s,new A.ark(),s,s,!1,s,s,B.Q,s,s,s,s,s,s,s,B.B,s,B.a0,s,s,s),B.e,s,s,s,s,s,s,s,s,s,340)],t.p),B.P,B.bo),B.e,s,s,s,s,s,new A.V(15,15,15,15),s,s,s,s)}}
 A.ark.prototype={
 $1(a){A.fj(a)
-window.location.replace("/search?q="+a)},
+window.location.replace("/#/search?q="+a)},
 $S:59}
 A.Ci.prototype={
 W(){return new A.WJ(B.j)}}
